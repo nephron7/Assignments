@@ -1,0 +1,83 @@
+.baby {
+  background-color: #2b4450;
+  color: #a7cdcc;
+}
+
+#left {
+  
+  color: #dfebed;
+  padding-right: 10rem;
+  font-size: x-large;
+  padding-left: 15rem;
+}
+
+#right {
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: xx-large;
+  color: #dfebed;
+  margin-top: 5rem;
+  padding-left: 10rem;
+}
+
+.topnav {
+  text-align: right;
+  overflow: hidden;
+  background-color: #f78536;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #497285;
+  color: black;
+}
+.code {
+  font-size: x-large;
+}
+.topnav a.active {
+  background-color: #04aa6d;
+  color: white;
+}
+
+#hobbies {
+  padding-left: 4rem;
+}
+
+.kehinde {
+  margin-top: 15rem;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+ 
+}
+
+hr {
+  height: 2px;
+  background-color: #f78536;
+  border-color: #f78536;
+}
+.list {
+  padding-left: 5rem;
+}
+#code2 {
+  color: #dfebed;
+}
+
+#p2 {
+  padding-left: 2rem;
+}
+#p3 {
+  padding-left: 2rem;
+}
+.foot {
+  margin-top: 3rem;
+  color: #dfebed;
+  text-align: center;
+}

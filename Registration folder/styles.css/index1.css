@@ -1,0 +1,19 @@
+.nut {background-color: #005792;}
+#tella {color: #00bbf0;
+    font-size: xx-large;
+    text-align: center;
+    background-color: #00204a;
+    width: 75%;
+    height: 50%;
+    max-width: 500px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+    #rep {color: #fdb44b}
+    .let {text-align: right;
+    }
+    #baby {color: #fff;}
+    .rep:hover {color: #c93737}
+    .rep {color: #fdb44b;}
